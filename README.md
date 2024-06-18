@@ -3,6 +3,9 @@
 - mostly frontend
 - still in school
 - not avalible from Monday-Friday
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=C4ctus72)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 - 👋 Hi, I’m @C4ctus72
 - 👀 I’m interested in ...
