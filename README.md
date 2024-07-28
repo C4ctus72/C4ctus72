@@ -1,6 +1,5 @@
-# I am @Hactus and I don't know how MarkDown works :)
-- Freelance Webdev
-- mostly frontend
+# I am Hactus and I don't know how MarkDown works :)
+- I make art and animation type stuff
 - still in school
 - not avalible from Monday-Friday
 
