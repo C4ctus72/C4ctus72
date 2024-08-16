@@ -1,6 +1,5 @@
 # I am Hactus and I don't know how MarkDown works :)
-- I make art and animation type stuff
-- still in school
+
 - not avalible from Monday-Friday
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=C4ctus72&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
